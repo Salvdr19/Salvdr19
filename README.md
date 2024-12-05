@@ -12,7 +12,7 @@ With a strong foundation in cybersecurity principles and real-world experience i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Salvdr19/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,5 +58,5 @@ With a strong foundation in cybersecurity principles and real-world experience i
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Salvdr19/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
