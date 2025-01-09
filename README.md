@@ -60,4 +60,4 @@ With a strong foundation in cybersecurity principles and real-world experience i
 ## Projects
 - <a href="https://github.com/Salvdr19/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
-- <a href="https://https://github.com/Salvdr19/Snort-Installation-Guide-for-Kali-Linux-VM">Installation of IDS (Snort)</a>
+- <a href="https://github.com/Salvdr19/Snort-Installation-Guide-for-Kali-Linux-VM">Installation of IDS (Snort)</a>
