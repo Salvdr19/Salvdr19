@@ -24,6 +24,7 @@ With a strong foundation in cybersecurity principles and real-world experience i
 | Security Automation and Orchestration          | SOC Automation Lab|
 | Scripting for Threat Mitigation (Python, SQL)  | SOC Automation Lab|
 | Log Querying (KQL) for Security Monitoring     | <a href="https://github.com/SalvadorCaballero/SOC-Honeynet">SOC Honeynet in Azure</a>|
+| IDS implementation and Malware analysis        | <a href="https://github.com/Salvdr19/Snort-Installation-Guide-for-Kali-Linux-VM">Installation of IDS (snort)</a>|
 
 
 ## Tools
@@ -31,6 +32,7 @@ With a strong foundation in cybersecurity principles and real-world experience i
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF5733?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
